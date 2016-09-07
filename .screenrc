@@ -1,0 +1,5 @@
+shell -${SHELL}
+autodetach off
+defscrollback 30000
+startup_message off
+termcapinfo $TERM ti@:te@
